@@ -10,7 +10,7 @@ themplate here [Yjob Frontend](https://github.com/Francis-Yuppie/job-board-nuxt3
 
 1. Clone The repoo:
 
-     git clone https://github.com/Francis-Yuppie/django_job_board_backend.git
+        git clone https://github.com/Francis-Yuppie/django_job_board_backend.git
 
 2. Create a Virtul Environment
 
@@ -22,7 +22,7 @@ themplate here [Yjob Frontend](https://github.com/Francis-Yuppie/job-board-nuxt3
 
 4. Install dependancis run:
 
-     pip install -r requirements.txt
+        pip install -r requirements.txt
 
 5. Run migrations and create superuser
 
