@@ -1,0 +1,8 @@
+#virtual environment
+
+env/
+
+# .env file
+
+.env
+
